@@ -1,0 +1,2 @@
+# COMPARISON-OF-BER-OF-8-PSK-USING-BLOCK-CODING-TECHNIQUES-OVER-AWGN-CHANNEL
+This repository contains the source code of all the block codes in MATLAB. This project presents the Bit Error Rate (BER) Comparison of 8-PSK over AWGN channel by considering block codes such as Linear block codes, Hamming codes, BCH codes, RS codes etc. All the codes will be compared in terms of BER and energy per bit to noise ratio.
